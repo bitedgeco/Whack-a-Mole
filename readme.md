@@ -1,0 +1,1 @@
+part of codeup syllabus as per http://app.codeup.com/content/jquery/whack-a-mole/create-game.html
