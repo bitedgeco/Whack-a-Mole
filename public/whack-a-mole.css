@@ -3,9 +3,7 @@
 }
 
 body {
-	background-color: #f9f9f9;
 	font-family: "Avenir Next";
-	/*text-align: center;*/
 	background: url(/img/background.png) no-repeat center center fixed; 
   	background-size: cover;
   	color: black;
@@ -22,6 +20,11 @@ h1 {
 	height: 290px;
 }
 
+#molePic img {
+	width: 450px;
+	height: 285px;
+}
+
 #game {
 	width: 460px;
 	height: 290px;
@@ -34,6 +37,11 @@ h1 {
 	float: left;
 	margin: 25px;
 	margin-top: 10px;
+}
+
+.plate img{
+	width: 100px;
+	height: 100px;
 }
 
 #plate4, #plate5{
@@ -60,6 +68,12 @@ ol {
 	margin-top: 15px;
 	color: blue;
 }
+
+#newHighScore img{
+	width: 400px;
+	height: 225px;
+	}
+
 .blue {
 	color: blue;
 }
